@@ -1,0 +1,17 @@
+##################
+### piechart
+##################
+An utility for creating pie charts based on gnu plotutils package 
+by Bernhard Reiter @ http://intevation.net
+see https://web.archive.org/web/20130430095812/http://www.usf.uni-osnabrueck.de/~breiter/tools/piechart/piecharts.en.html
+for more info
+#######################
+### gnu plotutils page
+https://www.gnu.org/software/plotutils
+#######################
+updated by Francesco Lazzarotto fralaz1971@gmail.com on 17/07/2020
+###
+#to compile and run the example: 
+make
+
+
